@@ -2,7 +2,7 @@
 Program który pozwala na usunięcie wszystkich wpisów na stronie www.wykop.pl.  
 Kod nie jest przejrzysty, ale robi robotę, a to był główny cel tego projektu :)
 
-![POKAZ](https://i.imgur.com/F7eo0dq.png)
+![POKAZ](https://i.imgur.com/Pli5B4r.png)
 
 ### 🛠️ Wymagania
 
