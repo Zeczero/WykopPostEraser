@@ -1,5 +1,6 @@
 # WykopPostEraser
-Program który pozwala na usunięcie wszystkich wpisów na stronie www.wykop.pl
+Program który pozwala na usunięcie wszystkich wpisów na stronie www.wykop.pl.
+Kod nie jest przejrzysty, ale robi robotę, a to był główny cel tego projektu :)
 
 ### 🛠️ Wymagania
 
