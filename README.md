@@ -1,7 +1,7 @@
 # WykopPostEraser
 Program który pozwala na usunięcie wszystkich wpisów na stronie www.wykop.pl
 
-###🛠️ Wymagania
+### 🛠️ Wymagania
 
 * .NET Framework w wersji 4.5.2 lub nowszej
 
