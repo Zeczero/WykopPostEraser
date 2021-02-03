@@ -14,7 +14,7 @@ namespace WykopBot
 {
     class Program
     {
-        static void StartWebsiteAndAcceptTos(string login, string pass)
+        static void DeletePosts(string login, string pass)
         {
             FirefoxOptions options = new FirefoxOptions();
             options.AddArgument("-headless");
@@ -94,7 +94,7 @@ namespace WykopBot
             login = Console.ReadLine();
             Console.Write("Enter your password: ");
             password = Console.ReadLine();
-            StartWebsiteAndAcceptTos(login, password);
+            DeletePosts(login, password);
 
             FirefoxOptions options = new FirefoxOptions();
             options.AddArgument("-headless");
