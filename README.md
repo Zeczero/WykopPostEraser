@@ -10,4 +10,4 @@ Kod nie jest przejrzysty, ale robi robotę, a to był główny cel tego projektu
 * Przeglądarka Mozilla Firefox
 
 ### 📬 Kontakt
-* PGP:  [0x5648078DA6AE5EF1](https://gist.github.com/Zeczero/908edd725cf297366e0f30c82958901d)
+* PGP:  [0x73D6849A](https://gist.github.com/Zeczero/908edd725cf297366e0f30c82958901d)
